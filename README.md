@@ -1,6 +1,6 @@
 # JAVA Learn
 
-## 1. Lecture 01
+## 1. PART 01
 
     - JAVA History
     - JAVA Buzzwords
@@ -33,3 +33,11 @@
     - Exercise 02
     - Exercise 03
     - Exercise 04
+
+![Local Image](./assets/Screenshot%202024-04-21%20at%2022.31.47.png "Local Image Title")
+<br>
+<br>
+<br>
+<br>
+<br>
+![Local Image](./assets/Screenshot%202024-04-21%20at%2022.34.02.png "Local Image Title")
